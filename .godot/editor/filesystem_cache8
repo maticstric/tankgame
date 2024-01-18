@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1705556528
+::res://project/::1705556343
+::res://project/res/::1705556343
+icon.svg::CompressedTexture2D::7456902082154475010::1705457778::1705556343::1::::<><>::
+::res://project/scenes/::1705556518
+::res://project/scenes/levels/::1705556901
+test_level.tscn::PackedScene::4470048185246060087::1705557123::0::1::::<><>::
+::res://project/scenes/menus/::1705556901
+lobby_menu.tscn::PackedScene::2057239715683981521::1705556901::0::1::::<><>::res://project/scripts/lobby_menu.gd
+main_menu.tscn::PackedScene::1406713776615416657::1705556901::0::1::::<><>::res://project/scripts/main_menu.gd
+::res://project/scripts/::1705556899
+lobby_menu.gd::GDScript::-1::1705556412::0::1::::<>Control<>::
+main_menu.gd::GDScript::-1::1705556786::0::1::::<>Control<>::
+multiplayer_controller.gd::GDScript::-1::1705556899::0::1::::<>Node<>::

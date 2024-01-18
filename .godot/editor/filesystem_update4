@@ -1,0 +1,14 @@
+res://main_menu.tscn
+res://main_menu.gd
+res://multiplayer_controller.gd
+res://scenes/main_menu.tscn
+res://scenes/lobby_menu.tscn
+res://project/scenes/lobby_menu.tscn
+res://project/scripts/lobby_menu.gd
+res://project/scripts/multiplayer_controller.gd
+res://project/scenes/levels/test_level.tscn
+res://project/scenes/menus/main_menu.tscn
+res://project/scenes/menus/lobby_menu.tscn
+res://project/scripts/main_menu.gd
+res://project/scenes/objects/player.tscn
+res://project/scripts/player.gd
